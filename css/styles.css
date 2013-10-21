@@ -87,9 +87,8 @@ section {
 
 header {
   background: url("../img/rainbow_bg.jpg") repeat 0 0;
-  min-height: 450px;
-  overflow: hidden;
-  padding-top: 228px;
+  height: 256px;
+  padding-top: 128px;
   background-color: yellow;
   background-color: rgba(255, 255, 0, .9);
 }
